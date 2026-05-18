@@ -2,12 +2,12 @@
 
 **Objective:** Create a functional, DIY flight simulator yoke controller that leverages the PS5 DualSense controller's built-in gyroscope and motion sensors to provide intuitive pitch and roll input for flight simulation software on PC or console platforms.
 
-**Purpose:** Develop an affordable, customizable alternative to commercial flight yokes by mechanizing and integrating consumer gaming hardware with a physical mechanical frame. This project aims to deliver an immersive flight simulator experience for enthusiasts and hobbyists at a fraction of commercial yoke cost.
+**Purpose:** Instead of buying the Thrustmaster Boeing Yoke for $700, this project's purpose is to develop an affordable, customizable alternative to commercial flight yokes by mechanizing and integrating consumer gaming hardware with a physical mechanical frame. This project aims to deliver an immersive flight simulator experience for enthusiasts and hobbyists at a fraction of commercial yoke cost.
 
 **Key Goals:**
 - Design a mechanical frame that replicates the form factor and ergonomics of a real aircraft yoke
-- Model components in Fusion 360 and export STL files for 3D printing
-- Calibrate and map PS5 controller gyroscope data to flight simulator axes (pitch, roll, throttle)
+- Model components in Fusion 360 and export STL files for 3D printing in the FlashForge Orca Slicer Program
+- Calibrate and map PS5 controller gyroscope data to flight simulator axes (pitch, roll)
 - Achieve responsive, lag-free control suitable for realistic flight simulation
 - Create a modular design allowing for future enhancements (force feedback, throttle quadrant, pedals)
 
