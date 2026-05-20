@@ -2,7 +2,7 @@
 
 **Objective:** Create a functional, DIY flight simulator yoke controller that leverages the PS5 DualSense controller's built-in gyroscope and motion sensors to provide intuitive pitch and roll input for flight simulation software on PC or console platforms.
 
-**Purpose:** Instead of buying the Thrustmaster Boeing Yoke for $700, this project's purpose is to develop an affordable, customizable alternative to commercial flight yokes by mechanizing and integrating consumer gaming hardware with a physical mechanical frame. This project aims to deliver an immersive flight simulator experience for enthusiasts and hobbyists at a fraction of commercial yoke cost.
+**Purpose:** Instead of buying the Thrustmaster Boeing Yoke for $700, I need to develop an affordable, customizable alternative to commercial flight yokes by mechanizing and integrating consumer gaming hardware with a physical mechanical frame. This project aims to deliver an immersive flight simulator experience for enthusiasts and hobbyists at a fraction of commercial yoke cost.
 
 **Key Goals:**
 - Design a mechanical frame that replicates the form factor and ergonomics of a real aircraft yoke
@@ -35,7 +35,7 @@
 - **Available Tools:** Leverages existing 3D printer and Fusion 360 CAD software (no additional software licenses required)
 
 ## Software/Integration Constraints
-- **Compatibility:** Must work with popular flight simulators (X-Plane, MSFS 2024, etc.) via standard joystick input mapping
+- **Compatibility:** Must work with popular flight simulators (X-Plane, MSFS 2020, etc.) via standard joystick input mapping
 - **Development Platform:** Code/configuration must be accessible to non-experts for setup and calibration
 - **No Custom Firmware:** Cannot modify PS5 controller firmware; must work within standard HID protocol
 
@@ -43,3 +43,13 @@
 - **Development Timeline:** Project should reach functional prototype stage within 4-8 weeks
 
 ---
+## Materials
+- Tape
+- Super Glue
+- Plumbing Pipe
+- 2x Chopsticks
+- PS5 Controller
+- 8x Rubber Bands
+- FlashForge Adventurer 5M Pro 3D-Printer
+- 2x Simple Push Button
+- Arduino MEGA 2560
