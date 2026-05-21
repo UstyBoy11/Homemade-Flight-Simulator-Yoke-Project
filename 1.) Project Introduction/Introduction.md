@@ -5,6 +5,7 @@
 **Purpose:** Instead of buying the Thrustmaster Boeing Yoke for $700, I need to develop an affordable, customizable alternative to commercial flight yokes by mechanizing and integrating consumer gaming hardware with a physical mechanical frame. This project aims to deliver an immersive flight simulator experience for enthusiasts and hobbyists at a fraction of commercial yoke cost.
 
 **Key Goals:**
+- Have a functional ATC Push-to-Talk and AP Disconnect button wired inside the yoke.
 - Design a mechanical frame that replicates the form factor and ergonomics of a real aircraft yoke
 - Model components in Fusion 360 and export STL files for 3D printing in the FlashForge Orca Slicer Program
 - Calibrate and map PS5 controller gyroscope data to flight simulator axes (pitch, roll)
