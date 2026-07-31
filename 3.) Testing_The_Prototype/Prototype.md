@@ -10,10 +10,7 @@ To minimize risk and cost, I decided to 3D print only the left thumbpad as a tes
 - Confirm that cables, switches, and electronics fit in their designated spaces
 - Validate component spacing and layout before committing to a full-scale print
 
-![alt text](First_Prototype.jpg)
-
-
-
+![alt text](image-1.png)
 
 
 
@@ -32,4 +29,4 @@ The first electrical test verified that all wiring and button connections functi
 - Confirm that electrical connections are stable and reliable
 - Ensure buttons register accurately and will work when integrated into the yoke
 
-![alt text](image-1.png)
+![alt text](image.png)
