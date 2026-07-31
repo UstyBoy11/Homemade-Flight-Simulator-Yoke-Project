@@ -1,6 +1,6 @@
 # Prototype Testing
 
-## Prototype Design Plan
+## FIRST 3-D PRINT: Prototype Design Plan
 
 To minimize risk and cost, I decided to 3D print only the left thumbpad as a test component. This allowed me to validate the internal design without printing the entire yoke assembly. By testing a single component first, I could verify that all internal dimensions and component spaces were correct before full production.
 
@@ -19,11 +19,11 @@ To minimize risk and cost, I decided to 3D print only the left thumbpad as a tes
 
 
 
-## First Electrical Test
+## SECOND 3-D PRINT: First Electrical Test
 
-The first electrical test verified that all wiring and button connections functioned properly. I connected the components to a microcontroller and tested their integration with MobiFlight Connector software. This confirmed that the electrical design was sound and ready for integration into the full prototype. I repeated this testing step throughout the project at major milestones to ensure 100% functionality and catch any issues early. These ongoing electrical tests provided confidence that the system remained reliable as new components and features were added.
+This was a bigger version of the original thumb pad printed in the first print. The first electrical test verified that all wiring and button connections functioned properly. I connected the components to a microcontroller and tested their integration with MobiFlight Connector software. This confirmed that the electrical design was sound and ready for integration into the full prototype. I repeated this testing step throughout the project at major milestones to ensure 100% functionality and catch any issues early. These ongoing electrical tests provided confidence that the system remained reliable as new components and features were added.
 
-- Wire up button switches and encoder to the microcontroller
+- Wire up button switches and encoder to the Arduino 2560 MEGA
 - Connect the system to MobiFlight Connector software
 - Verify that the software recognizes all button inputs
 - Confirm that electrical connections are stable and reliable
