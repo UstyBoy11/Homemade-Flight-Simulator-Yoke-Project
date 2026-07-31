@@ -12,6 +12,8 @@ To minimize risk and cost, I decided to 3D print only the left thumbpad as a tes
 
 ![alt text](image-1.png)
 
+![alt text](image-2.JPG)
+
 
 
 
